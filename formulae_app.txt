@@ -1,0 +1,5 @@
+azure-cli
+ncdu
+nvm
+postgresql@17
+mjml

@@ -1,0 +1,17 @@
+--cask bruno
+--cask pgadmin4
+--cask devtoys
+--cask maccy
+--cask powershell
+--cask visual-studio-code
+--cask google-chrome
+--cask firefox
+--cask bitwarden
+--cask iterm2
+--cask notion
+--cask android-file-transfer
+--cask sourcetree
+--cask meld
+--cask github
+--cask jetbrains-toolbox
+--cask openvpn-connect
